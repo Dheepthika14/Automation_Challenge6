@@ -1,0 +1,20 @@
+{
+  "name": {
+    "first": "Kani",
+    "last": "Diya"
+  },
+  "address": null,
+  "birthday": "1995-01-01",
+  "company": "Acme",
+  "occupation": "Software engineer",
+  "phones": [
+    {
+      "number": "22222222",
+      "type": "home"
+    },
+    {
+      "number": "999999999",
+      "type": "mobile"
+    }
+  ]
+}
